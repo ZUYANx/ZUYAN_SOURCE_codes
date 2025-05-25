@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ZUYAN-X">
+  <a href="https://github.com/ZUYANx">
     <img src="https://img.shields.io/badge/GitHub-ZUYAN--X-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://t.me/zuyanx">
+  <a href="https://t.me/ZUYANx">
     <img src="https://img.shields.io/badge/Telegram-Join%20Now-0088cc?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
-  <a href="https://youtube.com/@ZUYANX">
+  <a href="https://youtube.com/@ZUYANx">
     <img src="https://img.shields.io/badge/YouTube-ZUYANX-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
   </a>
 </p>
@@ -57,9 +57,9 @@
 
 ## Need Help?
 
-- Join our **Telegram Group** for support and updates: [t.me/zuyanx](https://t.me/zuyanx)
-- Watch tutorials on **YouTube**: [youtube.com/@ZUYANX](https://youtube.com/@ZUYANX)
-- Browse all repos: [github.com/ZUYAN-X](https://github.com/ZUYAN-X)
+- Join our **Telegram Group** for support and updates: [t.me/ZUYANx](https://t.me/ZUYANx)
+- Watch tutorials on **YouTube**: [youtube.com/@ZUYANx](https://youtube.com/@ZUYANx)
+- Browse all repos: [github.com/ZUYANx](https://github.com/ZUYANx)
 
 ---
 
