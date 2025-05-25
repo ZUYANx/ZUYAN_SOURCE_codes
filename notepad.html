@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Private Note</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: #ffffff;
+      font-family: sans-serif;
+    }
+
+    #note {
+      width: 100%;
+      height: 100%;
+      border: none;
+      font-size: 16px;
+      padding: 20px;
+      box-sizing: border-box;
+      background: repeating-linear-gradient(white, white 28px, #eee 29px);
+      resize: none;
+      outline: none;
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body onload="loadNote()">
+  <textarea id="note" placeholder="Write anything here..."></textarea>
+
+  <script>
+    const note = document.getElementById("note");
+
+    function loadNote() {
+      note.value = localStorage.getItem("private_note") || "";
+    }
+
+    note.addEventListener("input", () => {
+      localStorage.setItem("private_note", note.value);
+    });
+  </script>
+</body>
+</html>
